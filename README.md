@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jocelyn Vazquez! 👋</h1>
+<h1 align="center">Hi there, I'm Jocelyn! 👋</h1>
 <h3 align="center">A passionate Web developer sharing about my journey and learnings in tech👩‍💻</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/e0/90/06e090adf739019d15f65e0d7d6aa055.gif">
 
