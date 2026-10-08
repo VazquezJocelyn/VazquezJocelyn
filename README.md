@@ -23,12 +23,13 @@
 jocelyn@beautyengineered
 ------------------------
 💼 data engineer @ fidelity
-🎓 info systems, UT Arlington
+🎓 UTA grad, info systems
 💄 licensed cosmetologist
-🚀 co-founder, campus to career
+💗 co-founder, campus to career
 🐍 python, sql, java
 📡 learning kafka + ELK
-🎀 underestimate me ♡
+💅🏽 dress code: pink, always
+🎀 underestimated, then undefeated
 ```
 
 </td>
@@ -109,6 +110,17 @@ I was doing hair before I ever wrote a line of SQL. People didn't always expect 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=VazquezJocelyn&background=FFF0F6&border=F8BBD0&stroke=F8BBD0&ring=D81B60&fire=D81B60&currStreakNum=AD1457&sideNums=AD1457&currStreakLabel=C2185B&sideLabels=C2185B&dates=8E244D&border_radius=18" alt="github streak" />
+
+<br/><br/>
+
+<sub><b>✦ PINK PAC-MAN EATING MY COMMITS ✦</b></sub>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VazquezJocelyn/VazquezJocelyn/output/pacman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/VazquezJocelyn/VazquezJocelyn/output/pacman-contribution-graph.svg" width="100%" alt="pink pac-man eating my contribution graph">
+</picture>
 
 <br/>
 
