@@ -20,19 +20,19 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: make it pink
+      - name: make it pink (soft, easy-on-the-eyes palette)
         run: |
           L=dist/pacman-contribution-graph.svg
           D=dist/pacman-contribution-graph-dark.svg
           if [ -f "$L" ]; then
-            sed -i -e 's/#ebedf0/#FCE4EC/gI' -e 's/#9be9a8/#F8BBD0/gI' -e 's/#40c463/#F06292/gI' \
-                   -e 's/#30a14e/#D81B60/gI' -e 's/#216e39/#AD1457/gI' -e 's/#57606a/#AD1457/gI' \
-                   -e 's/#000000/#C2185B/gI' -e 's/yellow/#FF1F8E/gI' "$L"
+            sed -i -e 's/#ebedf0/#FFF0F5/gI' -e 's/#9be9a8/#FBCFE0/gI' -e 's/#40c463/#F48FB8/gI' \
+                   -e 's/#30a14e/#E0558F/gI' -e 's/#216e39/#B83270/gI' -e 's/#57606a/#B83270/gI' \
+                   -e 's/#000000/#EBB5CB/gI' -e 's/yellow/#E6007E/gI' "$L"
           fi
           if [ -f "$D" ]; then
-            sed -i -e 's/#161b22/#3A1229/gI' -e 's/#0e4429/#6B1A3E/gI' -e 's/#006d32/#AD1457/gI' \
-                   -e 's/#26a641/#D81B60/gI' -e 's/#39d353/#FF5FA2/gI' -e 's/#8b949e/#F8BBD0/gI' \
-                   -e 's/#ffffff/#F48FB1/gI' -e 's/yellow/#FFC1DC/gI' "$D"
+            sed -i -e 's/#0d1117/#0A0A0A/gI' -e 's/#161b22/#1F1218/gI' -e 's/#0e4429/#4D1F35/gI' \
+                   -e 's/#006d32/#8A2E5C/gI' -e 's/#26a641/#D24B8D/gI' -e 's/#39d353/#FF7AB8/gI' \
+                   -e 's/#8b949e/#F2B8D2/gI' -e 's/#ffffff/#5E2F45/gI' -e 's/yellow/#FFC1DC/gI' "$D"
           fi
           ls -la dist
 
