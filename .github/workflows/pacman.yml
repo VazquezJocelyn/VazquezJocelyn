@@ -27,12 +27,12 @@ jobs:
           if [ -f "$L" ]; then
             sed -i -e 's/#ebedf0/#FCE4EC/gI' -e 's/#9be9a8/#F8BBD0/gI' -e 's/#40c463/#F06292/gI' \
                    -e 's/#30a14e/#D81B60/gI' -e 's/#216e39/#AD1457/gI' -e 's/#57606a/#AD1457/gI' \
-                   -e 's/#000000/#C2185B/gI' -e 's/fill="yellow"/fill="#FF1F8E"/g' "$L"
+                   -e 's/#000000/#C2185B/gI' -e 's/yellow/#FF1F8E/gI' "$L"
           fi
           if [ -f "$D" ]; then
             sed -i -e 's/#161b22/#3A1229/gI' -e 's/#0e4429/#6B1A3E/gI' -e 's/#006d32/#AD1457/gI' \
                    -e 's/#26a641/#D81B60/gI' -e 's/#39d353/#FF5FA2/gI' -e 's/#8b949e/#F8BBD0/gI' \
-                   -e 's/#ffffff/#F48FB1/gI' -e 's/fill="yellow"/fill="#FFC1DC"/g' "$D"
+                   -e 's/#ffffff/#F48FB1/gI' -e 's/yellow/#FFC1DC/gI' "$D"
           fi
           ls -la dist
 
