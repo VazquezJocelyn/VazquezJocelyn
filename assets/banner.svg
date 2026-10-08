@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="jocelyn vazquez. what, like pink can't be technical?">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#AD1457"/>
+      <stop offset="0.5" stop-color="#C2185B"/>
+      <stop offset="1" stop-color="#D81B60"/>
+    </linearGradient>
+    <symbol id="s" viewBox="-10 -10 20 20"><path d="M0 -10 C1 -2 2 -1 10 0 C2 1 1 2 0 10 C-1 2 -2 1 -10 0 C-2 -1 -1 -2 0 -10Z" fill="#FFFFFF"/></symbol>
+  </defs>
+  <rect width="1200" height="320" fill="url(#g)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1.2">
+    <path d="M-20 60 C 200 10, 380 140, 620 70 S 1000 0, 1220 90"/>
+    <path d="M-20 75 C 200 25, 380 155, 620 85 S 1000 15, 1220 105"/>
+    <path d="M-20 90 C 200 40, 380 170, 620 100 S 1000 30, 1220 120"/>
+  </g>
+  <use href="#s" x="120" y="70" width="22" height="22" opacity="0.9"/>
+  <use href="#s" x="1040" y="60" width="28" height="28" opacity="0.9"/>
+  <use href="#s" x="1090" y="150" width="14" height="14" opacity="0.7"/>
+  <use href="#s" x="70" y="180" width="14" height="14" opacity="0.7"/>
+  <use href="#s" x="960" y="210" width="12" height="12" opacity="0.6"/>
+  <text x="600" y="78" text-anchor="middle" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="6">✦ BEAUTY ENGINEERED ✦</text>
+  <text x="600" y="160" text-anchor="middle" fill="#FFFFFF" font-family="'Playfair Display', Didot, 'Bodoni 72', Georgia, 'Times New Roman', serif" font-size="74">jocelyn vazquez</text>
+  <text x="600" y="210" text-anchor="middle" fill="#FFFFFF" font-family="'Playfair Display', Didot, Georgia, 'Times New Roman', serif" font-size="30" font-style="italic">what, like pink can’t be technical?</text>
+  <path d="M0 270 C 250 235, 450 300, 700 268 S 1050 240, 1200 262 L1200 320 L0 320Z" fill="#FFFFFF" fill-opacity="0.35"/>
+  <path d="M0 290 C 300 255, 500 320, 800 285 S 1100 270, 1200 285 L1200 320 L0 320Z" fill="#FFFFFF"/>
+</svg>
