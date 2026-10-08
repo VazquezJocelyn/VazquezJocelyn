@@ -46,7 +46,7 @@ jocelyn@beautyengineered
 
 ## 01 ✦ about me
 
-<img src="assets/about.svg" width="100%" alt="hi, i'm jocelyn. cosmetologist since 2021, data engineer at Fidelity now. first-gen latina, UTA information systems grad. Sephora price analysis on 1,400+ products. featured in Times Square and LinkedIn Next Gen Voices. selected for Microsoft, Bloomberg and American Airlines programs. co-founder of From Campus to Career. the pink and the python were never a contradiction." />
+I was doing hair before I ever wrote a line of SQL. People didn't always expect the cosmetologist to become the data engineer, and that's exactly what makes it fun. Same eye for detail, same obsession with a flawless finish, just pointed at pipelines now.
 
 ## 02 ✦ the kit
 
