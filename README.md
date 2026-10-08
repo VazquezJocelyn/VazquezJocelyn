@@ -1,48 +1,103 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F7CAD0,50:E8A0BF,100:8E4162&text=beauty%20engineered&fontColor=FFF8F0&fontSize=52&fontAlignY=38&desc=jocelyn%20vazquez%20%E2%80%A2%20data%20engineer%20%E2%80%A2%20licensed%20cosmetologist&descAlignY=60&descSize=16" width="100%" alt="beauty engineered banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FFE4EF,45:FF8FC7,100:E0388C&text=jocelyn%20vazquez&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=beauty%20engineered%20%E2%9C%A6%20data%20engineer%20%E2%9C%A6%20licensed%20cosmetologist&descAlignY=58&descSize=16" width="100%" alt="jocelyn vazquez banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3200&pause=900&color=B76E79&center=true&vCenter=true&width=520&lines=from+the+salon+chair+to+the+data+pipeline;clean+data+is+just+a+good+blowout;first-gen+latina+in+tech+%F0%9F%8E%80" alt="typing intro" />
-</p>
+<div align="center">
 
-<img align="right" src="https://i.pinimg.com/originals/06/e0/90/06e090adf739019d15f65e0d7d6aa055.gif" width="280" alt="coding">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=900&color=E0388C&center=true&vCenter=true&width=560&lines=from+the+salon+chair+to+the+data+pipeline+%F0%9F%92%85%F0%9F%8F%BD;clean+data+is+just+a+good+blowout;pink+is+a+power+color;first-gen+latina+in+tech+%F0%9F%8E%80" alt="typing intro" />
 
-### 🎀 hi, i'm jocelyn
+<br/>
 
-I went from doing hair to building data pipelines, and I bring both with me. Same eye for detail, same obsession with a clean finish.
+<img src="https://visitor-badge.laobi.icu/badge?page_id=VazquezJocelyn&left_text=glam%20visits&left_color=%23E0388C&right_color=%23FFC8DD" alt="profile visits" />
 
-- 💼 Associate Data Engineer at **Fidelity Investments** (LEAP Program)
-- 🎓 B.S. Information Systems, Data Engineering, **UT Arlington**
-- 💄 Licensed Texas cosmetologist since 2021
-- 🚀 Co-founder of [**From Campus to Career**](https://fromcampuscareer.com) for first-gen and underrepresented students
-- 🎥 Sharing the journey as [**@beautyengineered**](https://www.instagram.com/beautyengineered)
+</div>
 
-<br clear="right"/>
+<br/>
 
-### 🎀 the kit
+<table>
+<tr>
+<td width="42%" valign="middle">
+<img src="https://i.pinimg.com/originals/06/e0/90/06e090adf739019d15f65e0d7d6aa055.gif" width="100%" alt="jocelyn coding" />
+</td>
+<td width="58%" valign="middle">
+
+```text
+jocelyn@beautyengineered
+------------------------
+💼 Associate Data Engineer @ Fidelity (LEAP)
+🎓 B.S. Information Systems, UT Arlington
+💄 Licensed TX cosmetologist since 2021
+🚀 Co-founder, From Campus to Career
+🐍 Languages: Python, SQL, Java
+⚽ Building: World Cup sticker simulation
+🎀 Motto: underestimate me, it's more fun
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<kbd>B</kbd> <kbd>E</kbd> <kbd>A</kbd> <kbd>U</kbd> <kbd>T</kbd> <kbd>Y</kbd> &nbsp; <kbd>✦</kbd> &nbsp; <kbd>E</kbd> <kbd>N</kbd> <kbd>G</kbd> <kbd>I</kbd> <kbd>N</kbd> <kbd>E</kbd> <kbd>E</kbd> <kbd>R</kbd> <kbd>E</kbd> <kbd>D</kbd>
+
+</div>
+
+### 🎀 about me
+
+I was doing hair before I ever wrote a line of SQL. People didn't always expect the cosmetologist to become the data engineer, and that's exactly what makes it fun. Same eye for detail, same obsession with a flawless finish, just pointed at pipelines now.
+
+### 💗 the kit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,java,postgres,git,github,vscode&theme=light" alt="tech stack" />
+
+<br/><br/>
 
 | 💻 the engineering side | 💅🏽 the beauty side |
-| :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-B76E79?style=for-the-badge&logo=python&logoColor=FFF8F0) ![SQL](https://img.shields.io/badge/SQL-B76E79?style=for-the-badge&logo=postgresql&logoColor=FFF8F0) | ✂️ precision cuts |
-| ![Java](https://img.shields.io/badge/Java-8E4162?style=for-the-badge&logo=openjdk&logoColor=FFF8F0) ![Git](https://img.shields.io/badge/Git-8E4162?style=for-the-badge&logo=git&logoColor=FFF8F0) | 🎨 color theory |
-| ![Canva](https://img.shields.io/badge/Canva-E8A0BF?style=for-the-badge&logo=canva&logoColor=FFF8F0) | 🪞 client consultations |
+| :---: | :---: |
+| data pipelines | precision cuts |
+| SQL + data modeling | color theory |
+| testing + validation | client consultations |
+| storytelling with data | content creation |
 
-### 🎀 currently
+</div>
+
+### ✨ featured work
+
+- 💄 [**Cosmetic Price Analysis**](https://github.com/VazquezJocelyn/Cosmetic-Price-Analysis): where my two worlds meet, analyzing beauty product pricing with data
+- ⚽ **World Cup Panini Simulation** *(in progress)*: the coupon collector problem, but make it fútbol
+- 🎓 [**From Campus to Career**](https://fromcampuscareer.com): career resources for first-gen and underrepresented students
+
+### 🌸 currently
 
 - 🧪 leveling up as a data engineer in Fidelity's LEAP Program
-- ⚽ building a World Cup Panini sticker simulation (the coupon collector problem, but make it fútbol)
-- 📚 turning tech concepts into content people actually want to watch
+- 🎥 turning tech concepts into content people actually want to watch at [**@beautyengineered**](https://beacons.ai/beautyengineered)
+- 📚 open to collabs on data projects, first-gen career content, and anything pink
 
-### 🎀 let's connect
+### 💌 let's connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jocelyn-vazquez/"><img src="https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=FFF8F0" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/beautyengineered"><img src="https://img.shields.io/badge/Instagram-E8A0BF?style=for-the-badge&logo=instagram&logoColor=FFF8F0" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@beautyengineered"><img src="https://img.shields.io/badge/TikTok-8E4162?style=for-the-badge&logo=tiktok&logoColor=FFF8F0" alt="TikTok" /></a>
-  <a href="https://fromcampuscareer.com"><img src="https://img.shields.io/badge/From_Campus_to_Career-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=FFF8F0" alt="From Campus to Career" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VazquezJocelyn&background=FFF5F7&border=F7CAD0&stroke=E8A0BF&ring=B76E79&fire=8E4162&currStreakNum=8E4162&sideNums=B76E79&currStreakLabel=8E4162&sideLabels=B76E79&dates=C9A66B&border_radius=16" alt="github streak" />
-</p>
+<a href="https://beacons.ai/beautyengineered"><img src="https://img.shields.io/badge/all_my_links-E0388C?style=for-the-badge&logo=linktree&logoColor=FFFFFF" alt="all my links" /></a>
+<a href="https://www.linkedin.com/in/jocelyn-vazquez/"><img src="https://img.shields.io/badge/LinkedIn-FF8FC7?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/beautyengineered"><img src="https://img.shields.io/badge/Instagram-E0388C?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@beautyengineered"><img src="https://img.shields.io/badge/TikTok-FF8FC7?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok" /></a>
+<a href="https://fromcampuscareer.com"><img src="https://img.shields.io/badge/From_Campus_to_Career-C9A66B?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="From Campus to Career" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8E4162,50:E8A0BF,100:F7CAD0" width="100%" alt="footer" />
+</div>
+
+### 📊 the receipts
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VazquezJocelyn&background=FFF0F6&border=FFC8DD&stroke=FF8FC7&ring=E0388C&fire=E0388C&currStreakNum=B0236E&sideNums=E0388C&currStreakLabel=B0236E&sideLabels=E0388C&dates=C9A66B&border_radius=18" alt="github streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VazquezJocelyn&bg_color=FFF0F6&color=B0236E&line=FF69B4&point=E0388C&area=true&area_color=FFC8DD&hide_border=true&radius=16&title_color=E0388C&custom_title=jocelyn%27s%20contribution%20glow%20up" width="100%" alt="activity graph" />
+
+<br/>
+
+<sub>✦ pink is a power color ✦</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:E0388C,55:FF8FC7,100:FFE4EF" width="100%" alt="footer" />
