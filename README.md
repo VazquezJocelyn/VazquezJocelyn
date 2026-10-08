@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:AD1457,50:C2185B,100:D81B60&text=jocelyn%20vazquez&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=what%2C%20like%20pink%20can%E2%80%99t%20be%20technical%3F&descAlignY=58&descSize=20" width="100%" alt="jocelyn vazquez banner" />
+<img src="assets/banner.svg" width="100%" alt="jocelyn vazquez. what, like pink can’t be technical?" />
 
 <div align="center">
 
@@ -116,4 +116,4 @@ I was doing hair before I ever wrote a line of SQL. People didn't always expect 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:D81B60,50:C2185B,100:AD1457" width="100%" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="pink wave footer" />
