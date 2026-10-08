@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F7CAD0,50:E8A0BF,100:8E4162&text=beauty%20engineered&fontColor=FFF8F0&fontSize=52&fontAlignY=38&desc=jocelyn%20vazquez%20%E2%80%A2%20data%20engineer%20%E2%80%A2%20licensed%20cosmetologist&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="beauty engineered banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:F7CAD0,50:E8A0BF,100:8E4162&text=beauty%20engineered&fontColor=FFF8F0&fontSize=52&fontAlignY=38&desc=jocelyn%20vazquez%20%E2%80%A2%20data%20engineer%20%E2%80%A2%20licensed%20cosmetologist&descAlignY=60&descSize=16" width="100%" alt="beauty engineered banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3200&pause=900&color=B76E79&center=true&vCenter=true&width=520&lines=from+the+salon+chair+to+the+data+pipeline;clean+data+is+just+a+good+blowout;first-gen+latina+in+tech+%F0%9F%8E%80" alt="typing intro" />
@@ -43,10 +43,6 @@ I went from doing hair to building data pipelines, and I bring both with me. Sam
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=VazquezJocelyn&background=FFF5F7&border=F7CAD0&stroke=E8A0BF&ring=B76E79&fire=8E4162&currStreakNum=8E4162&sideNums=B76E79&currStreakLabel=8E4162&sideLabels=B76E79&dates=C9A66B&border_radius=16" alt="github streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vazquezjocelyn&label=glam%20visits&color=b76e79&style=flat" alt="profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8E4162,50:E8A0BF,100:F7CAD0" width="100%" alt="footer" />
