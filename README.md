@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FFE4EF,45:FF8FC7,100:E0388C&text=jocelyn%20vazquez&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=beauty%20engineered%20%E2%9C%A6%20data%20engineer%20%E2%9C%A6%20licensed%20cosmetologist&descAlignY=58&descSize=16" width="100%" alt="jocelyn vazquez banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:FFE4EF,45:FF8FC7,100:E0388C&text=jocelyn%20vazquez&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=what%2C%20like%20pink%20can%E2%80%99t%20be%20technical%3F&descAlignY=58&descSize=16" width="100%" alt="jocelyn vazquez banner" />
 
 <div align="center">
 
