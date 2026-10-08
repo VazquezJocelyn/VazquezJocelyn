@@ -1,0 +1,45 @@
+name: pink pac-man contribution graph
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: generate pac-man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: make it pink
+        run: |
+          L=dist/pacman-contribution-graph.svg
+          D=dist/pacman-contribution-graph-dark.svg
+          if [ -f "$L" ]; then
+            sed -i -e 's/#ebedf0/#FCE4EC/gI' -e 's/#9be9a8/#F8BBD0/gI' -e 's/#40c463/#F06292/gI' \
+                   -e 's/#30a14e/#D81B60/gI' -e 's/#216e39/#AD1457/gI' -e 's/#57606a/#AD1457/gI' \
+                   -e 's/#000000/#C2185B/gI' -e 's/fill="yellow"/fill="#FF1F8E"/g' "$L"
+          fi
+          if [ -f "$D" ]; then
+            sed -i -e 's/#161b22/#3A1229/gI' -e 's/#0e4429/#6B1A3E/gI' -e 's/#006d32/#AD1457/gI' \
+                   -e 's/#26a641/#D81B60/gI' -e 's/#39d353/#FF5FA2/gI' -e 's/#8b949e/#F8BBD0/gI' \
+                   -e 's/#ffffff/#F48FB1/gI' -e 's/fill="yellow"/fill="#FFC1DC"/g' "$D"
+          fi
+          ls -la dist
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
