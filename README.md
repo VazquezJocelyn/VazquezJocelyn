@@ -92,8 +92,6 @@ I was doing hair before I ever wrote a line of SQL. People didn't always expect 
 
 <img src="https://streak-stats.demolab.com?user=VazquezJocelyn&background=FFF0F6&border=FFC8DD&stroke=FF8FC7&ring=E0388C&fire=E0388C&currStreakNum=B0236E&sideNums=E0388C&currStreakLabel=B0236E&sideLabels=E0388C&dates=C9A66B&border_radius=18" alt="github streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VazquezJocelyn&bg_color=FFF0F6&color=B0236E&line=FF69B4&point=E0388C&area=true&area_color=FFC8DD&hide_border=true&radius=16&title_color=E0388C&custom_title=jocelyn%27s%20contribution%20glow%20up" width="100%" alt="activity graph" />
-
 <br/>
 
 <sub>✦ pink is a power color ✦</sub>
