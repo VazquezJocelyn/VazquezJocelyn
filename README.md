@@ -22,13 +22,13 @@
 ```text
 jocelyn@beautyengineered
 ------------------------
-💼 Associate Data Engineer @ Fidelity (LEAP)
-🎓 B.S. Information Systems, UT Arlington
-💄 Licensed TX cosmetologist since 2021
-🚀 Co-founder, From Campus to Career
-🐍 Languages: Python, SQL, Java
-⚽ Building: World Cup sticker simulation
-🎀 Motto: underestimate me, it's more fun
+💼 data engineer @ fidelity
+🎓 info systems, UT Arlington
+💄 licensed cosmetologist
+🚀 co-founder, campus to career
+🐍 python, sql, java
+📡 learning kafka + ELK
+🎀 underestimate me ♡
 ```
 
 </td>
