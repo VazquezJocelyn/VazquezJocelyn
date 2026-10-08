@@ -49,7 +49,22 @@ I was doing hair before I ever wrote a line of SQL. People didn't always expect 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,postgres,git,github,vscode&theme=light" alt="tech stack" />
+<sub><b>✦ WHAT I KNOW ✦</b></sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=py,java,postgres,git,github,vscode&theme=light" alt="what i know" />
+
+<br/><br/>
+
+<sub><b>✦ CURRENTLY LEARNING ✦</b></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Apache_Kafka-E0388C?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Elasticsearch-FF8FC7?style=for-the-badge&logo=elasticsearch&logoColor=FFFFFF" alt="Elasticsearch" />
+<img src="https://img.shields.io/badge/Logstash-E0388C?style=for-the-badge&logo=logstash&logoColor=FFFFFF" alt="Logstash" />
+<img src="https://img.shields.io/badge/Kibana-FF8FC7?style=for-the-badge&logo=kibana&logoColor=FFFFFF" alt="Kibana" />
 
 <br/><br/>
 
@@ -71,6 +86,7 @@ I was doing hair before I ever wrote a line of SQL. People didn't always expect 
 ## 04 ✦ currently
 
 - 🧪 leveling up as a data engineer in Fidelity's LEAP Program
+- 📡 learning streaming + search with Kafka and the Elastic (ELK) stack
 - 🎥 turning tech concepts into content people actually want to watch at [**@beautyengineered**](https://beacons.ai/beautyengineered)
 - 📚 open to collabs on data projects, first-gen career content, and anything pink
 
