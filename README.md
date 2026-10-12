@@ -15,13 +15,13 @@
 <table>
 <tr>
 <td width="42%" valign="middle">
-<img src="https://i.pinimg.com/originals/06/e0/90/06e090adf739019d15f65e0d7d6aa055.gif" width="100%" alt="jocelyn coding" />
+<img src="assets/avatar.gif" width="100%" alt="jocelyn avatar" />
 </td>
 <td width="58%" valign="middle">
 
 ```text
-jocelyn@beautyengineered
-------------------------
+hi, i'm jocelyn 🎀
+------------------
 💼 data engineer @ fidelity
 🎓 UTA grad, info systems
 💄 licensed cosmetologist
