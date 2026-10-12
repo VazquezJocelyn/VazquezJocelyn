@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="42%" valign="middle">
-<img src="assets/avatar.gif" width="100%" alt="jocelyn avatar" />
+<img src="assets/avatar-polaroid.gif" width="100%" alt="jocelyn avatar" />
 </td>
 <td width="58%" valign="middle">
 
