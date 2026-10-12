@@ -23,12 +23,8 @@
 hi, i'm jocelyn 🎀
 ------------------
 💼 data engineer @ fidelity
-🎓 UTA grad, info systems
 💄 licensed cosmetologist
 💗 co-founder, campus to career
-🐍 python, sql, java
-📡 learning kafka + ELK
-💅🏽 dress code: pink, always
 🎀 underestimated, then undefeated
 ```
 
