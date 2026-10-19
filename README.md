@@ -84,8 +84,6 @@ I was doing hair before I ever wrote a line of SQL. People didn't always expect 
 
 ## 04 ✦ currently
 
-- 🧪 leveling up as a data engineer in Fidelity's LEAP Program
-- 📡 learning streaming + search with Kafka and the Elastic (ELK) stack
 - 🎥 turning tech concepts into content people actually want to watch at [**@beautyengineered**](https://beacons.ai/beautyengineered)
 - 📚 open to collabs on data projects, first-gen career content, and anything pink
 
